@@ -1,10 +1,14 @@
 Hi there :clap:
-# The CGame Portal project
-it's backend for crosswords puzzle apps. We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
+# The CGame Portal
+It's a backend for building of crosswords puzzle. 
+
+![screenshot](images/1617165514978.png)
+
+There are an API. This way the apps get a crossword puzzle.
+
+We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
 
 **Design**
-
-![screenshot](images/1617097409755.png)
 
 Interface mockups are here (Zeplin project): https://zpl.io/2ZJOr51 
 (You need an invitation to Zeplin project for more functions, contact to a project manager).
