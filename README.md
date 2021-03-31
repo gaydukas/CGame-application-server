@@ -4,6 +4,8 @@ it's backend for crosswords puzzle apps. We use the php, JavaScript, jQuery and 
 
 **Design**
 
+![screenshot](images/1617097409755.png)
+
 Interface mockups are here (Zeplin project): https://zpl.io/2ZJOr51 
 (You need an invitation to Zeplin project for more functions, contact to a project manager).
 
