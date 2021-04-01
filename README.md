@@ -13,7 +13,11 @@ There are an API.
 
 We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
 
-**Design**
+**Total schema of servers and connected services 
+
+![a](cgame-portal/documentation/doc_images/servers_and_services_page2.png)
+
+**Design
 
 Interface mockups are here (Zeplin project): https://zpl.io/2ZJOr51 
 (You need an invitation to Zeplin project for more functions, contact to a project manager).
