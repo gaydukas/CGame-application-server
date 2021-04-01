@@ -2,7 +2,7 @@ Hi there :clap:
 # The CGame Portal
 It's a backend for building of crosswords puzzle.
 
-![building a crossword](images/1617165514978.png)
+![1617165514978](https://user-images.githubusercontent.com/42923935/113277899-6c8c7600-930b-11eb-85b0-66e84ea90486.png)
 
 Next, we are going to distribute to end-users the crossword puzzles through apps.
 
