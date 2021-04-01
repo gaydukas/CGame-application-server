@@ -1,10 +1,15 @@
 Hi there :clap:
 # The CGame Portal
-It's a backend for building of crosswords puzzle. 
+It's a backend for building of crosswords puzzle.
 
-![screenshot](images/1617165514978.png)
+![building a crossword](images/1617165514978.png)
 
-There are an API. This way the apps get a crossword puzzle.
+Next, we are going to distribute to end-users the crossword puzzles through apps.
+
+![app mockup](https://user-images.githubusercontent.com/42923935/113244602-8a43e600-92df-11eb-92d5-d4a78c576cc8.png)
+
+
+There are an API.
 
 We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
 
