@@ -9,13 +9,14 @@ Next, we are going to distribute to end-users the crossword puzzles through apps
 ![app mockup](https://user-images.githubusercontent.com/42923935/113244602-8a43e600-92df-11eb-92d5-d4a78c576cc8.png)
 
 
-There are an API.
+There are an 
+![API](https://github.com/gaydukas/cgame-portal/blob/11db12b64f967d3306c3d06561573faf485eff65/documentation/API%20Application%20Server.md).
 
 We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
 
 **Total schema of servers and connected services**
 
-![a](/documentation/doc_images/servers_and_services_page2.png)
+![Total schema of servers and connected services](/documentation/doc_images/servers_and_services_page2.png)
 
 **Design**
 
