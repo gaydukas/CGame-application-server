@@ -10,7 +10,7 @@ Next, we are going to distribute to end-users the crossword puzzles through apps
 
 
 There are an 
-![API](https://github.com/gaydukas/cgame-portal/blob/11db12b64f967d3306c3d06561573faf485eff65/documentation/API%20Application%20Server.md).
+[API](https://github.com/gaydukas/cgame-portal/blob/11db12b64f967d3306c3d06561573faf485eff65/documentation/API%20Application%20Server.md).
 
 We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
 
