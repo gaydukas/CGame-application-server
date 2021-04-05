@@ -1,0 +1,2 @@
+1. Get list of locales:
+http://crossword3.com/api/get/locales/?language_id=ru&country_id=RU&crossword_type=1 
