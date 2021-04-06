@@ -1,6 +1,17 @@
 Hi there :clap:
 # The CGame Portal
-It's a backend for building of crosswords puzzle.
+It's a backend for crossword puzzle applications.
+The CGame Portal inclides two servers: Crossword Server and Application Server.
+
+*Total schema of servers and connected services*
+
+![Total schema of servers and connected services](/documentation/doc_images/servers_and_services_page2.png)
+
+The Crossword server builds a crossword puzzle and send it to Application server. 
+The Application server includes:
+* The storage of published crosswords
+* Autherization and synchronization
+* Hint log
 
 ![1617165514978](https://user-images.githubusercontent.com/42923935/113277899-6c8c7600-930b-11eb-85b0-66e84ea90486.png)
 
@@ -13,24 +24,6 @@ There are an
 [API](https://github.com/gaydukas/cgame-portal/blob/11db12b64f967d3306c3d06561573faf485eff65/documentation/API%20Application%20Server.md).
 
 We use the php, JavaScript, jQuery and the Yii2, Vue.js, Bootstrap 4.
-
-**Total schema of servers and connected services**
-
-![Total schema of servers and connected services](/documentation/doc_images/servers_and_services_page2.png)
-
-**Design**
-
-The interface mockups are [here](https://zpl.io/2ZJOr51). You need an invitation to Zeplin project for more functions, to contact to repository owner.
-
-List of numbers screens (mockups) with descriptions is [here](https://docs.google.com/spreadsheets/d/1f45YQu2sqmVc2ZE71S8scbbatBz7ld6t7pGb-yX7Pxc/edit#gid=0)
-
-**Addition resources**
-
-[Flags of countries](https://www.countryflags.com/en/). There are the downloaded icons at Files Tab for 196 countries.
-
-[Codes of countries](https://ru.wikipedia.org/wiki/ISO_3166-1)
-
-[Codes of languages](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 **Coding convention**
 
