@@ -1,11 +1,11 @@
 Hi there :clap:
 
 The Application Server is a part of the CGame Portal. He is a backend for crossword puzzle applications.
-The CGame Portal inclides two servers: Application Server and Crossword Server.
+The CGame Portal includes two servers: Application Server and Crossword Server.
 
 *Total schema of servers and connected services*
 
-![Total schema of servers and connected services](/documentation/doc_images/servers_and_services_page2.png)
+![Total schema of servers and connected services](/documentation/doc_images/servers_and_services-page2.png)
 
 The Crossword server builds a crossword puzzle and sends it to the Application Server.
 
