@@ -18,7 +18,7 @@ The Application server includes:
 * Autherization and synchronization
 * Hint log
 
-There are the crossword  [API](https://github.com/gaydukas/cgame-portal/blob/11db12b64f967d3306c3d06561573faf485eff65/documentation/API%20Application%20Server.md).
+The Storage of published crosswords has an [API](https://github.com/gaydukas/cgame-portal/blob/11db12b64f967d3306c3d06561573faf485eff65/documentation/API%20Application%20Server.md).
 
 The end-users app will be use API. It can lools like:
 
