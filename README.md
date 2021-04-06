@@ -7,7 +7,7 @@ The CGame Portal inclides two servers: Crossword Server and Application Server.
 
 ![Total schema of servers and connected services](/documentation/doc_images/servers_and_services_page2.png)
 
-The Crossword server builds a crossword puzzle and sends it to the Application server.
+The Crossword server builds a crossword puzzle and sends it to the Application Server. This repository doesn't have the Crossword Server only the Application Server.
 
 ![1617165514978](https://user-images.githubusercontent.com/42923935/113277899-6c8c7600-930b-11eb-85b0-66e84ea90486.png)
 
